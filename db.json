@@ -1,0 +1,95 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "userName": "anhntph27608",
+            "password": "123456",
+            "firtName": "Ngô Tuấn",
+            "lastName": "Anh",
+            "email": "anhntph27608@fpt.edu.vn",
+            "gender": "Male",
+            "role": "ADMIN",
+            "createDate": "22/10/2023",
+            "updateDate": "22/10/2023"
+        },
+        {
+            "id": 2,
+            "userName": "anhntph",
+            "password": "123456",
+            "firtName": "Ngô Tuấn",
+            "lastName": "Anh",
+            "email": "anhntph27608@fpt.edu.vn",
+            "gender": "Male",
+            "role": "STAFF",
+            "createDate": "22/10/2023",
+            "updateDate": "22/10/2023"
+        }
+    ],
+    "stundents" : [
+        {
+            "studentId": 1,
+            "fullName": "Ngô Tuấn Anh",
+            "email" : "anhntph27608@fpt.edu.vn",
+            "gender" : "Male",
+            "dateOfBirth" : "22/10/2003",
+            "createDate" : "22/10/2023",
+            "updateDate" : "22/10/2023"
+        },
+        {
+            "studentId": 2,
+            "fullName": "Nguyễn Thị Trang",
+            "email" : "anhntph27608@fpt.edu.vn",
+            "gender" : "Female",
+            "dateOfBirth" : "11/06/2004",
+            "createDate" : "11/06/2004",
+            "updateDate" : "11/06/2004"
+        },
+        {
+            "studentId": 3,
+            "fullName": "Nguyễn Thị Trang",
+            "email" : "anhntph27608@fpt.edu.vn",
+            "gender" : "Female",
+            "dateOfBirth" : "11/06/2004",
+            "createDate" : "11/06/2004",
+            "updateDate" : "11/06/2004"
+        },
+        {
+            "studentId": 4,
+            "fullName": "Nguyễn Thị Trang",
+            "email" : "anhntph27608@fpt.edu.vn",
+            "gender" : "Female",
+            "dateOfBirth" : "11/06/2004",
+            "createDate" : "11/06/2004",
+            "updateDate" : "11/06/2004"
+        },
+        {
+            "studentId": 5,
+            "fullName": "Nguyễn Thị Trang",
+            "email" : "anhntph27608@fpt.edu.vn",
+            "gender" : "Female",
+            "dateOfBirth" : "11/06/2004",
+            "createDate" : "11/06/2004",
+            "updateDate" : "11/06/2004"
+        },
+        {
+            "studentId": 6,
+            "fullName": "Nguyễn Thị Trang",
+            "email" : "anhntph27608@fpt.edu.vn",
+            "gender" : "Female",
+            "dateOfBirth" : "11/06/2004",
+            "createDate" : "11/06/2004",
+            "updateDate" : "11/06/2004"
+        },
+        {
+            "studentId": 7,
+            "fullName": "Nguyễn Thị Trang",
+            "email" : "anhntph27608@fpt.edu.vn",
+            "gender" : "Female",
+            "dateOfBirth" : "11/06/2004",
+            "createDate" : "11/06/2004",
+            "updateDate" : "11/06/2004"
+        }
+        
+    ]
+
+}
